@@ -1,5 +1,5 @@
 ### Hi, I'm Josh 👋
-![banner](joshmalek/joshmalek/JOSH_MALEK.png)
+![banner](https://github.com/joshmalek/joshmalek/blob/master/JOSH_MALEK.png)
 <!--
 **joshmalek/joshmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
