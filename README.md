@@ -6,6 +6,8 @@ I am a Computer Science major at Rensselaer Polytechnic Institute. I will be gra
 ### The Future 🔮
 For my professional career, I love working with new and exciting technologies, and developing for the future. I am currently looking for employment to start after I graduate, so feel free to contact me! I am excited for what the future holds, and hope I can play a part in creating it.
 
+Check out my personal site [here](joshmalek.github.io), or my resume [here](https://github.com/joshmalek/resume/blob/master/MalekJoshResume.pdf).
+
 <!--
 **joshmalek/joshmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
